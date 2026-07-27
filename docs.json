@@ -1,0 +1,104 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Neutralyze Product Docs",
+  "colors": {
+    "primary": "#1e6fd9",
+    "light": "#4a90e2",
+    "dark": "#14508f"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "faq"
+        ]
+      },
+      {
+        "group": "Products",
+        "pages": [
+          "products/exfoliating-pads",
+          "products/renewal-complex",
+          "products/face-wash"
+        ]
+      },
+      {
+        "group": "Guides",
+        "pages": [
+          "guides/routine-order",
+          "guides/best-for-teens",
+          "guides/best-for-sensitive-skin",
+          "guides/best-for-body-acne",
+          "guides/dark-spots",
+          "guides/purging-vs-breakout"
+        ]
+      },
+      {
+        "group": "Comparisons",
+        "pages": [
+          "comparisons/salicylic-vs-mandelic",
+          "comparisons/vs-stridex",
+          "comparisons/vs-cerave-sa",
+          "comparisons/vs-panoxyl"
+        ]
+      },
+      {
+        "group": "Reference",
+        "pages": [
+          "reference/ingredients",
+          "reference/shipping",
+          "reference/returns-guarantee",
+          "reference/subscriptions",
+          "reference/contact"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "footer": {
+    "socials": {
+      "website": "https://www.neutralyze.com"
+    }
+  },
+  "description": "Official product documentation for Neutralyze acne treatment products: specs, ingredients, directions, comparisons, and policies."
+}
