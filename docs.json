@@ -31,7 +31,8 @@
         "pages": [
           "products/exfoliating-pads",
           "products/renewal-complex",
-          "products/face-wash"
+          "products/face-wash",
+          "products/resurfacing-pads"
         ]
       },
       {
@@ -59,7 +60,8 @@
           "comparisons/vs-panoxyl",
           "comparisons/pads-vs-toner",
           "comparisons/benzoyl-peroxide-vs-salicylic-acid",
-          "comparisons/mandelic-vs-glycolic"
+          "comparisons/mandelic-vs-glycolic",
+          "comparisons/exfoliating-vs-resurfacing"
         ]
       },
       {
